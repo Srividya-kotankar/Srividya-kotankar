@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Srividya Kotankar!
 
-<!--
-**Srividya-kotankar/Srividya-kotankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Electronics & Communication Engineering graduate specializing in **Python Application Development**, data-driven automation, and relational database systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Ecosystem
+- **Core Languages:** Python
+- **Backend Architecture:** REST APIs
+- **Database Architecture:** MySQL (Relational Schema Design, Complex Queries)
+- **Web Interface:** HTML, CSS
+- **Libraries & Tools:** Pandas, Flask, OpenCV, TensorFlow, Git
+
+---
+
+### 📈 Current Focus
+- 🚀 Preparing for core backend engineering and application developer tracking domains.
+- 💡 Solving Data Structures and Algorithms (DSA) foundational logic puzzles in Python.
+- 🎨 Expanding modular backend integration pipelines using Flask.
+
+---
+
+*“Striving to write clean, maintainable, and production-ready code.”*
