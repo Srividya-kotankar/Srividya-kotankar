@@ -1,23 +1,18 @@
 # 👋 Hi, I'm Srividya Kotankar!
 
-B.Tech Electronics & Communication Engineering graduate specializing in **Python Application Development**, data-driven automation, and relational database systems.
-
----
+B.Tech Electronics & Communication Engineering graduate specializing in **Data Analysis**, relational database schema design, and translating complex datasets into actionable business insights.
 
 ### 🛠️ Technical Ecosystem
-- **Core Languages:** Python
-- **Backend Architecture:** REST APIs
-- **Database Architecture:** MySQL (Relational Schema Design, Complex Queries)
-- **Web Interface:** HTML, CSS
-- **Libraries & Tools:** Pandas, Flask, OpenCV, TensorFlow, Git
 
----
+* **Data Analysis & Processing:** Python, Pandas, NumPy
+* **Database Architecture:** MySQL (Relational Schema Design, Complex Queries, Joins)
+* **Data Visualization & Tools:** Power BI, Microsoft Excel, Git, GitHub
+* **Foundational Frameworks:** OpenCV, TensorFlow, Flask
 
 ### 📈 Current Focus
-- 🚀 Preparing for core backend engineering and application developer tracking domains.
-- 💡 Solving Data Structures and Algorithms (DSA) foundational logic puzzles in Python.
-- 🎨 Expanding modular backend integration pipelines using Flask.
 
----
+* 🚀 Ingesting, cleaning, and processing raw structured and unstructured transactional datasets.
+* 💡 Developing exploratory data analysis (EDA) pipelines using Python and SQL to track metrics.
+* 🎨 Building interactive data models and performance metrics dashboards.
 
-*“Striving to write clean, maintainable, and production-ready code.”*
+*“Striving to uncover the stories hidden behind data to drive smart business decisions.”*
